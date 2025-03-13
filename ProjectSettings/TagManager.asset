@@ -8,6 +8,9 @@ TagManager:
   - Flame
   - Water
   - Destroyer
+  - Star
+  - Stars
+  - Spot
   layers:
   - Default
   - TransparentFX
